@@ -12,6 +12,6 @@ def test_password_characters():
 Write another test from the suggested ones below. Alternatively, you can come up with a test of your own!
 If you can write more tests, that would be really awesome!
 
-Test that the password length matches the specified length
-Test that two consecutively generated passwords are different
+1. Test that the password length matches the specified length
+2. Test that two consecutively generated passwords are different
 """
